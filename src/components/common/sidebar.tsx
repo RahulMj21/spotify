@@ -12,7 +12,7 @@ const PLAYLISTS = [
 
 const Sidebar = () => {
   return (
-    <aside className="flex flex-col gap-10 w-[14rem]">
+    <aside className="flex flex-col gap-10 w-[16rem]">
       <div>
         <Logo />
       </div>
