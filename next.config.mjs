@@ -7,6 +7,10 @@ const nextConfig = {
         protocol: "https",
         hostname: "e7.pngegg.com",
       },
+      {
+        protocol: "https",
+        hostname: "song-tc.pixelotech.com",
+      },
     ],
   },
 };
